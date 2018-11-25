@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel on Cloudways
+                    Cheetah Mock Test
                 </div>
 
                 <div class="links">
